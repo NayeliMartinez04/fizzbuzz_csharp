@@ -1,0 +1,6 @@
+c:\users\pasante\documents\visual studio 2013\Projects\BuclesSolucion\Bucles\bin\Debug\Bucles.exe.config
+c:\users\pasante\documents\visual studio 2013\Projects\BuclesSolucion\Bucles\bin\Debug\Bucles.exe
+c:\users\pasante\documents\visual studio 2013\Projects\BuclesSolucion\Bucles\bin\Debug\Bucles.pdb
+c:\users\pasante\documents\visual studio 2013\Projects\BuclesSolucion\Bucles\obj\Debug\Bucles.csprojResolveAssemblyReference.cache
+c:\users\pasante\documents\visual studio 2013\Projects\BuclesSolucion\Bucles\obj\Debug\Bucles.exe
+c:\users\pasante\documents\visual studio 2013\Projects\BuclesSolucion\Bucles\obj\Debug\Bucles.pdb
